@@ -1,21 +1,27 @@
 ## MAINNET
 
-| API/Doc link                 ||| Description                                                    ||| URL                                         ||| Rate Limit    |
+| API/Doc link                 ||| Description                                                    ||| URL                                         ||| Deployed version |
 |------------------------------|||----------------------------------------------------------------|||---------------------------------------------|||---------------|
-| [explorer-api][explorer-api] ||| Legacy blockchain info API [[0]][cardano-rest]                 ||| https://explorer-api.mainnet.dandelion.link ||| Unlimited     |
-| [submit-api][submit-api]     ||| Send signed-transactions to the blockchain [[1]][cardano-rest] ||| https://submit-api.mainnet.dandelion.link   ||| Unlimited     |
-| [graphql-api][graphql-api]   ||| GraphQL blockchain info API [[2]][cardano-graphql]             ||| https://graphql-api.mainnet.dandelion.link  ||| Unlimited     |
-| [cardano-node][cardano-cli] socket ||| `cardano-cli` socket API [[3]][cardano-node].              ||| Not applicable, [contact us!][contact-us]   ||| Unlimited     |
+| [explorer-api][explorer-api] ||| Legacy blockchain info API [[0]][cardano-rest]                 ||| https://explorer-api.mainnet.dandelion.link ||| 2.1.3  |
+| [submit-api][submit-api]     ||| Send signed-transactions to the blockchain [[1]][cardano-rest] ||| https://submit-api.mainnet.dandelion.link   ||| 2.1.3     |
+| [graphql-api][graphql-api]   ||| GraphQL blockchain info API [[2]][cardano-graphql]             ||| https://graphql-api.mainnet.dandelion.link  ||| 2.1.0     |
+| [cardano-node][cardano-cli] socket ||| `cardano-cli` socket API [[3]][cardano-node].              ||| Not applicable, [contact us!][contact-us]   ||| 1.20.0     |
+
+Backing `cardano-db-sync` version is `5.0.1`.
+
 <br/><br/>
 
 ## TESTNET
 
-| API/Doc link                 ||| Description                                                    ||| URL                                         ||| Rate Limit    |
-|------------------------------|||----------------------------------------------------------------|||---------------------------------------------|||---------------|
-| [explorer-api][explorer-api] ||| Legacy blockchain info API [[0]][cardano-rest]                 ||| https://explorer-api.testnet.dandelion.link ||| Unlimited     |
-| [submit-api][submit-api]     ||| Send signed-transactions to the blockchain [[1]][cardano-rest] ||| https://submit-api.testnet.dandelion.link   ||| Unlimited     |
-| [graphql-api][graphql-api]   ||| GraphQL blockchain info API [[2]][cardano-graphql]             ||| https://graphql-api.testnet.dandelion.link  ||| Unlimited     |
-| [cardano-node][cardano-cli] socket ||| `cardano-cli` socket API [[3]][cardano-node].              ||| Not applicable, [contact us!][contact-us]   ||| Unlimited     |
+| API/Doc link                 ||| Description                                                    ||| URL                                         ||| Deployed version | 
+|------------------------------|||----------------------------------------------------------------|||---------------------------------------------|||---------------|    
+| [explorer-api][explorer-api] ||| Legacy blockchain info API [[0]][cardano-rest]                 ||| https://explorer-api.testnet.dandelion.link ||| 2.1.3  |           
+| [submit-api][submit-api]     ||| Send signed-transactions to the blockchain [[1]][cardano-rest] ||| https://submit-api.testnet.dandelion.link   ||| 2.1.3     |        
+| [graphql-api][graphql-api]   ||| GraphQL blockchain info API [[2]][cardano-graphql]             ||| https://graphql-api.testnet.dandelion.link  ||| 2.1.0     |        
+| [cardano-node][cardano-cli] socket ||| `cardano-cli` socket API [[3]][cardano-node].              ||| Not applicable, [contact us!][contact-us]   ||| 1.20.0     |     
+
+Backing `cardano-db-sync` version is `5.0.1`.
+
 <br/><br/>
 
 ## FREE EXTERNAL RESOURCES
