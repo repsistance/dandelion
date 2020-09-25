@@ -20,23 +20,26 @@
 
 ## FREE EXTERNAL RESOURCES
 
+Check these awesome resources that use official APIs under the hood and extend them by enriching the observability of the ecosystem.
+
 ### MAINNET
 
 | Description ||| URL |
 | ----------- ||| --- |
-| Official Cardano blockchain explorer web-ui      ||| https://explorer.cardano.org | 
-| ADApools, stakepools information                 ||| https://adapools.org         |
-| AdaScan, feature rich blockchain explorer web-ui ||| https://adascan.net          |
-| AdaStat, blockchain explorer web-ui              ||| https://adastat.net          |
-| CardanoScan, blockchain explorer web-ui          ||| https://cardanoscan.io       |
-| pool.pm, stakepools information                  ||| https://pool.pm              |
-| PoolTool, stakepools information                 ||| https://pooltool.io          |
+| **Official** Cardano blockchain explorer web-ui                     ||| https://explorer.cardano.org | 
+| **ADApools**, more than an observability tool                       ||| https://adapools.org         |
+| **AdaScan**, feature rich blockchain explorer web-ui                ||| https://adascan.net          |
+| **AdaStat**, clean and neat blockchain explorer web-ui              ||| https://adastat.net          |
+| **CardanoScan**, feature rich blockchain explorer web-ui            ||| https://cardanoscan.io       |
+| **pool.pm**, fancy stakepool visualization tool                     ||| https://pool.pm              |
+| **PoolTool**, advanced ecosystem observability and interaction tool ||| https://pooltool.io          |
+| **PoolStats**, blockchain information as heatmaps                   ||| https://poolstats.org/       |
 <br/><br/>
 
 ### TESTNET
 | Description ||| URL |
 | ----------- ||| --- |
-| Official Cardano blockchain explorer web-ui ||| https://explorer.cardano-testnet.iohkdev.io | 
+| **Official** Cardano blockchain explorer web-ui ||| https://explorer.cardano-testnet.iohkdev.io | 
 <br/><br/>
 
 [explorer-api]: https://input-output-hk.github.io/cardano-rest/explorer-api/
