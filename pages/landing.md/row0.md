@@ -1,3 +1,3 @@
-## Cardano APIs as community Service
+## Cardano APIs as Community Service
 
 Free. Forever.

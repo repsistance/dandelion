@@ -1,4 +1,4 @@
-# MAINNET
+## MAINNET
 
 | API/Doc link                 ||| Description                                                    ||| URL                                         ||| Rate Limit    |
 |------------------------------|||----------------------------------------------------------------|||---------------------------------------------|||---------------|
@@ -8,7 +8,7 @@
 | [cardano-node][cardano-cli] socket ||| `cardano-cli` socket API [[3]][cardano-node].              ||| Not applicable, [contact us!][contact-us]   ||| Unlimited     |
 <br/><br/>
 
-# TESTNET
+## TESTNET
 
 | API/Doc link                 ||| Description                                                    ||| URL                                         ||| Rate Limit    |
 |------------------------------|||----------------------------------------------------------------|||---------------------------------------------|||---------------|
@@ -18,24 +18,25 @@
 | [cardano-node][cardano-cli] socket ||| `cardano-cli` socket API [[3]][cardano-node].              ||| Not applicable, [contact us!][contact-us]   ||| Unlimited     |
 <br/><br/>
 
-# External resources
+## Free external resources
 
 ### MAINNET
 
 | Description ||| URL |
 | ----------- ||| --- |
-| Official Cardano blockchain explorer web-ui ||| https://explorer.cardano.org |
-| ADApools, stakepools information ||| https://adapools.org |
-| AdaScan, feature rich blockchain explorer web-ui ||| https://adascan.net |
-| AdaStat, blockchain explorer web-ui ||| https://adastat.net |
-| CardanoScan, blockchain explorer web-ui ||| https://cardanoscan.io |
-| PoolTool, stakepools information ||| https://pooltool.io |
+| Official Cardano blockchain explorer web-ui      ||| https://explorer.cardano.org | 
+| ADApools, stakepools information                 ||| https://adapools.org         |
+| AdaScan, feature rich blockchain explorer web-ui ||| https://adascan.net          |
+| AdaStat, blockchain explorer web-ui              ||| https://adastat.net          |
+| CardanoScan, blockchain explorer web-ui          ||| https://cardanoscan.io       |
+| pool.pm, stakepools information                  ||| https://pool.pm              |
+| PoolTool, stakepools information                 ||| https://pooltool.io          |
 <br/><br/>
 
 ### TESTNET
 | Description ||| URL |
 | ----------- ||| --- |
-| Official Cardano blockchain explorer web-ui ||| https://explorer.cardano-testnet.iohkdev.io |
+| Official Cardano blockchain explorer web-ui ||| https://explorer.cardano-testnet.iohkdev.io | 
 <br/><br/>
 
 [explorer-api]: https://input-output-hk.github.io/cardano-rest/explorer-api/

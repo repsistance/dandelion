@@ -26,32 +26,34 @@
 <body>
 
   <!-- Navigation -->
-  <nav class="navbar navbar-light bg-light static-top">
-      <div class="menu-logo">
-          <div class="navbar-brand">
-              <span class="navbar-logo">
-                  <a href="#">
-                       <img src="img/dandelion-logo-no-text-black.svg" media-simple="true" style="height: 3.8rem;">
-                  </a>
-              </span>
-          </div>
-      </div>
-  <!-- nav buttons -->
-  <div class="btn-group" role="group" aria-label="Button group with nested dropdown">
-    <a class="btn btn-secondary" href="https://repsistance.com">About</a>
-    <a class="btn btn-secondary" href="/get-started">Documentation</a>
+  <ul class="nav justify-content-center">
+    <nav class="navbar navbar-light bg-light static-top">
+        <div class="menu-logo">
+            <div class="navbar-brand">
+                <span class="navbar-logo">
+                    <a href="/">
+                         <img src="img/dandelion-logo-no-text-black.svg" media-simple="true" style="height: 3.8rem;">
+                    </a>
+                </span>
+            </div>
+        </div>
+    <!-- nav buttons -->
+    <div class="btn-group" role="group" aria-label="Button group with nested dropdown">
+      <a class="btn btn-secondary" href="/">Home</a>
+      <a class="btn btn-secondary" href="https://repsistance.com">About</a>
 
-    <div class="btn-group" role="group">
-      <button id="btnGroupDrop1" type="button" class="btn btn-secondary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-        Endpoints
-      </button>
-      <div class="dropdown-menu" aria-labelledby="btnGroupDrop1">
-        <a class="dropdown-item" href="#">Mainnet</a>
-        <a class="dropdown-item" href="#">Testnet</a>
+      <div class="btn-group" role="group">
+        <button id="btnGroupDrop1" type="button" class="btn btn-secondary dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+          Resources
+        </button>
+        <div class="dropdown-menu" aria-labelledby="btnGroupDrop1">
+          <a class="dropdown-item" href="/endpoints">Free Endpoints</a>
+          <a class="dropdown-item" href="/endpoints">Other community resources</a>
+        </div>
       </div>
     </div>
-  </div>
-  </nav>
+    </nav>
+  </ul>
 
   <!-- main markdown style="background-image: url('img/bg-masthead.jpg');" -->
   <header class="masthead">
