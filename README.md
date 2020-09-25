@@ -6,6 +6,7 @@ docker run -it --rm \
   -p 5000:5000 \
   repsistance/xm:latest \
   build --root src --output rendered
+cp rendered/* . && rm -rf rendered
 ```
 
 # Dev Build/Run
