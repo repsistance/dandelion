@@ -18,7 +18,7 @@
 | [cardano-node][cardano-cli] socket ||| `cardano-cli` socket API [[3]][cardano-node].              ||| Not applicable, [contact us!][contact-us]   ||| Unlimited     |
 <br/><br/>
 
-## Free external resources
+## FREE EXTERNAL RESOURCES
 
 ### MAINNET
 
