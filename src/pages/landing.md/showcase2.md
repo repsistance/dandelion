@@ -1,4 +1,4 @@
-# cardano-graphql-api
+# [cardano-graphql-api](endpoints)
 
 GraphQL is a query language and execution environment with server and client implementations across many programming languages. The language can be serialized for network transmission, schema implementations hashed for assurance, and is suited for describing most domains.
 

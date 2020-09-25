@@ -1,4 +1,4 @@
-# cardano-node-socket
+# [cardano-node-socket](endpoints)
 
 Are you planning to try low level stuff through cardano-node but don't want to retrieve gigabytes of data from the mainnet ledger? Then you'll want to try and connect to our authenticated and TLS transported cardano-node socket service.
 

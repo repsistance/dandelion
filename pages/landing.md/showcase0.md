@@ -1,4 +1,4 @@
-# cardano-explorer-api
+# [cardano-explorer-api](endpoints)
 
 This is the currently [officially supported API][cardano-rest] to explore Cardano transactions.
 In future it may be augmented or replaced by [cardano-graphql][cardano-graphql], but cardano-explorer-api will be supported for some time, even once alternatives become available.

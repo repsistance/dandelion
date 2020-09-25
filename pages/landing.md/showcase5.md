@@ -1,4 +1,4 @@
-# SMASH pool metadata server
+# [SMASH pool metadata server](endpoints)
 
 Do you want to run your own [Stakepool Metadata Aggregation Server][smash] that wallets can connect to?
 

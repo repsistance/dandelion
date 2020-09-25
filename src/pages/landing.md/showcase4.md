@@ -1,4 +1,4 @@
-# ogmios-api
+# [ogmios-api](endpoints)
 
 [cardano-node JSON-WSP API][cardano-ogmios], coming soon!
 
