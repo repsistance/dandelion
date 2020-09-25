@@ -4,4 +4,4 @@ Are you planning to try low level stuff through cardano-node but don't want to r
 
 This interface is only available by explicit request and under approval by Dandelion team. [Contact us!][contact-us]
 
-[contact-us]: mailto:dandelion@repsistance.com
+[contact-us]: mailto:admin@dandelion.link

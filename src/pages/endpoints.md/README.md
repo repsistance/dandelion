@@ -49,4 +49,4 @@
 [cardano-node]: https://github.com/input-output-hk/cardano-node
 [cardano-ogmios]: https://github.com/KtorZ/cardano-ogmios
 
-[contact-us]: mailto:dandelion@repsistance.com
+[contact-us]: mailto:admin@dandelion.link

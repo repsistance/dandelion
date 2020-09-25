@@ -20,4 +20,4 @@ From bottom to top, from testnet to mainnet, every layer is available to access 
 [graphql-api]: https://input-output-hk.github.io/cardano-graphql/
 [ogmios-api]: https://ktorz.github.io/cardano-ogmios/api-reference/
 [smash]: https://docs.cardano.org/projects/smash/en/latest/getting-started/how-to-install-smash.html
-[get-started]: get-started
+[get-started]: endpoints
