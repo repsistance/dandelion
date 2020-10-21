@@ -64,7 +64,7 @@
 <p>Free. Forever.</p>
 </div>
         <div class="col-md-10 col-lg-8 col-xl-7 mx-auto">
-        <iframe src="https://cdn.forms-content.sg-form.com/71521804-fe6c-11ea-9634-02b6a6071de9">
+        <!-- <iframe src="https://sg-forms.repsistance.com/71521804-fe6c-11ea-9634-02b6a6071de9" frameborder="0">-->
           <!-- <form>
             <div class="form-row">
               <div class="col-12 col-md-9 mb-2 mb-md-0">
@@ -209,17 +209,51 @@ In future it may be augmented or replaced by <a href="https://github.com/input-o
     </div>
   </section> -->
 
-  <!-- Call to Action 
+  <!-- Call to Action  -->
   <section class="call-to-action text-white text-center">
     <div class="overlay"></div>
     <div class="container">
       <div class="row">
         <div class="col-md-10 col-lg-8 col-xl-7 mx-auto">
-          <iframe src="https://cdn.forms-content.sg-form.com/71521804-fe6c-11ea-9634-02b6a6071de9"/>
+        <script>
+        $scope.load() {
+            var iframe = #angular.element("#reportViewer");
+            var url = "https://sg-forms.repsistance.com/71521804-fe6c-11ea-9634-02b6a6071de9";
+            var token = "your-long-auth-token";
+            var headers = [['Host', 'cdn.forms-content.sg-form.com']];
+            $scope.populateIframe(iframe, url, headers);
+        }
+        
+        $scope.populateIframe = function (iframe, url, headers) {
+            var xhr = new XMLHttpRequest();
+            xhr.open('GET', url);
+            xhr.onreadystatechange = handler;
+            xhr.responseType = 'document';
+            headers.forEach(function (header) {
+                xhr.setRequestHeader(header[0], header[1]);
+            });
+            xhr.send();
+        
+            function handler() {
+                if (this.readyState === this.DONE) {
+                    if (this.status === 200) {
+                        var content = iframe[0].contentWindow ||
+                            iframe[0].contentDocument.document || 
+                            iframe[0].contentDocument;
+                        content.document.open();
+                        content.document.write(this.response.documentElement.innerHTML);
+                        content.document.close();
+                    } else {
+                        iframe.attr('srcdoc', '<html><head></head><body>Error loading page.</body></html>');
+                    }
+                }
+            }
+        }
+        </script>
         </div>
       </div>
     </div>
-  </section> -->
+  </section>
 
   <!-- Footer -->
   <footer class="footer bg-light">
