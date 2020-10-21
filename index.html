@@ -24,9 +24,10 @@
 
 var xhr = new XMLHttpRequest();
 
-xhr.open('GET', 'https://cdn.forms-content.sg-form.com./71521804-fe6c-11ea-9634-02b6a6071de9/');
+xhr.open('GET', 'https://cdn.forms-content.sg-form.com./71521804-fe6c-11ea-9634-02b6a6071de9');
 xhr.onreadystatechange = handler;
 xhr.responseType = 'blob';
+xhr.setRequestHeader('Content-Type', 'text/html');
 //xhr.setRequestHeader('Host', 'cdn.forms-content.sg-form.com');
 xhr.send();
 
