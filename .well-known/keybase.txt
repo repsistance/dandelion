@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/repsistance
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://dandelion.link
+  * I am repsistance (https://keybase.io/repsistance) on keybase.
+  * I have a public key with fingerprint 23C7 F6BE 0366 8DF7 648D  9101 FD71 8753 FD8C 9E9D
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "012049f7bec9601940d403937ce5c28030f93776cf6f2d6797bf3a511f2c76b2c1070a",
+      "fingerprint": "23c7f6be03668df7648d9101fd718753fd8c9e9d",
+      "host": "keybase.io",
+      "key_id": "fd718753fd8c9e9d",
+      "kid": "01011bd1b996ba86aea42890d0c94344a0e037325c8cda9d1bccb9e3764d105a52870a",
+      "uid": "a090605d0e24ad5381eaaa713eafe419",
+      "username": "repsistance"
+    },
+    "service": {
+      "hostname": "dandelion.link",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1611533404,
+  "expire_in": 157680000,
+  "prev": "933b43c9bf8132f7eb15a631779df2a95c8483415aeeba82593a47357760c382",
+  "seqno": 16,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMN2AnicbVJrUFVVFAYx0JtCEpjlxDgnEE3Sfc4+TwQGQ6JJEoXRxgGlfc7Z53Lk
+ei7ee3lFNgU6PKIBhIGKC03OVDMYXBlLhNDiJQQD2vigIE1tCqMSgeHRDDjtS/qv
+/Wfvtda3vvWttVf3ai8Pk+fi0cKkxdL6Os+BjrpMjzd9V6XkUbJVzaXC86h0vHRh
+i4rtjtR0XaXCKUAzgJU0QcaKxANaYoHKAihBQcGcwogAAo0YAq9ovMaovCAJsgYR
+R9Maowi8zCg0EACiwihNN8zYlmHTDQehZaAiaLyMAeR5UdUEnhVViQa0pgq0KHBQ
+U0VFwpJKEtOsdncGEScjO96qW4mPGKlL8v4H/1g3oGlZpWVJ4mUk8ggjlhEloAJF
+YiHLIkBqC5DhFFFRkUSAiiJLGBIlKg04xDHif7ozl+gQkAAPOBVghkUqB0UaI4QE
+GmKkYZaW3EA7thnoCCZoG86w63YHMhRMHQujSCBLJ08yW3czj0AqMlRs0a3GVotu
+pBOCDJvVYVWsFhJLczgy7OHuXEduhhucjeXURzSpsm6oZJgkIwvb7ISACqcJUnHo
+bl6ap2kOQhawYRTOydBtOFV3IziBFwE57jo4i1BKEMosVCRZE2nIaAKWaQ7xkBYE
+SdUYJJHJsCJkiRNjMkGGkyBiBciRzwYKFBnK3dhRw+ouSXQiM+G062YDOTJtpO3O
+jpTlHp4mD+8nlrm3zMO08qnHuxen+j2M2Gde3vjFg7CGHdVvRHefdeyfT3jdlHN3
++1xzlfnLmrmij+Kiggp/hQ/f/i7u0J+bK0M7Fpad31N4uafprd5TO/+pPeN/qyIt
+uLx5pCHl6aAH/b7OZJ/kzT5lv7S8diu1tir2pHH64/UDZSXd79dWvGf9NK88OSBx
+0b/f59rel+h13mX61Z6onlhmel3b5PM3124KH/XvD/F+wbXgaFiRtN8y0d5Y8ONk
+X9Ou2ieL9PyaxONNyHT71vLAQcofxtW4xl65WBk2HXSos/XGnRfrnnHd3rb+3vFS
+n8pA52hC/IicW98Wk/+9NLShq7PVFDizpl17Nnq6VbswHjp8wjCPzg4tbnElr/X7
+odSrYXv0VGxuc9f9+iSzn/f9bqcNJORcvIJaW7puyqtKpij8tev6NWPj3IW+3paf
+ajd5nSo/5xpZu7v8xnhk+wjXv8PJx0tHqk4G7wu+GTLy98tC53D2xgPFE0mfx+/6
+6vLQQGnbmZaab94dW5FSMPqzaaIjpjGmIiB74ZOyvs4D19NKqrYU7j04WHzPvNs5
+8OHMeO+eVyMPv8MuzE3NLnZYE+ctZ0OdTbwymr7hj2NUda1vpMg1cv2N7cGX1lC/
+Tx+evVoY0R20zdWghHgHnBibzDn37WfVv+UHN+s7TxfNHyxOpsdAUN0Hg9V1ltVJ
+wxFX9K6oYf+/Zu8o5++uvFTw3My/ka/Nrg==
+=NpGm
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/repsistance
+
+==================================================================
